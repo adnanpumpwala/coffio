@@ -1,0 +1,84 @@
+@media only screen and (max-width: 480px) {
+    .nav-link{
+        color: #000000;
+        font-size: 0.8rem !important;
+      }
+    .off{
+        height:400px !important;
+    }
+    .offimg{
+        margin: auto;
+        height: 230px;
+    }
+    .r1txt{ 
+        margin: auto;
+        font-size: 1.5rem;
+        text-align: center !important;
+    }
+    .r2txt{
+         margin: auto;
+         font-size: 1.5rem;
+         margin-top: 20px !important;
+         text-align: center !important;
+    }
+    .off1{
+         height: 500px !important;
+     }
+     .offbtn1{
+         padding: 5px 10px;
+         font-size: 0.9rem !important;
+         margin-top : 10px;
+
+     }
+     .offtxt{
+         font-size: 0.8rem;
+         margin: auto !important;
+         width: 200px !important;
+     }
+     .off2{
+        height: 530px !important;
+    }
+    .offbtn2{
+        padding: 5px 10px;
+         font-size: 0.9rem !important;
+         margin-top : 10px;
+    }
+    .r3txt{
+        text-align: center !important;
+        width: 330px;
+        margin-top: 20px !important;
+        font-size: 1.5rem;
+        margin: auto !important;
+   }
+
+.offbtn3{
+    padding: 5px 10px;
+    font-size: 0.9rem !important;
+    margin-top : 10px;
+}
+.off3{
+    height: 630px !important;
+}
+.r4txt{
+    text-align: center !important;
+    width: 330px;
+    margin: auto;
+    margin-top: 20px !important;
+    font-size: 1.5rem;
+}
+.offbtn4{
+    padding: 5px 10px;
+    font-size: 0.9rem !important;
+    margin-top : 10px;
+}
+.r5txt{
+    text-align: center;
+    width: 330px;
+    margin: auto;
+    margin-top: 20px !important;
+    font-size: 1.5rem;
+}
+.off4{
+    height: 670px !important;
+}
+}

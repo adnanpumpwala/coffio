@@ -1,0 +1,141 @@
+@media only screen and (max-width: 992px) {
+    .nav-link{
+        font-size: 0.9rem;
+    }
+.header{
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        gap: 0rem 1.1rem ;
+}
+.headline{
+    font-size: 1.8rem;
+    margin-top: 0.2rem
+}
+.herobg{
+    background-image: url("bg.jfif");    
+    background-repeat: no-repeat;
+    background-size: contain; 
+    
+}
+.heroimg{  
+    width: 100vw;
+    
+}
+.serrow{
+    padding-top: 13rem;
+}
+.search{
+    width: 220px;
+    font-size: 0.7rem;
+    padding: 5.4px 10px;
+}
+.searicon{
+    padding: 0.5px;
+    padding-bottom: 2.9px !important;
+    padding-right: 6px !important;
+
+}
+.sericon{
+    width: 13px;
+}
+.specsrow{
+    margin-top: 85px;
+    padding: 0px 34px;
+}
+.specsbox{
+    width: 18rem;
+    height: 7.6rem; 
+    padding: 0.4rem; 
+    margin: auto;
+    margin-top: 20px;
+}
+.tasterow{
+    margin-top: -240px;
+}
+.taste{
+    font-size: 1.7rem;
+}
+.tastbox1{
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 580px;
+    height: 220px;
+    margin: auto;
+    margin-bottom: 40px !important;
+}
+.tasttext1{
+    color: white;
+    padding-right: 30px;
+    padding-top: 45px;
+   font-size: 1.7rem;
+    font-weight: 100;
+
+}
+.tastbtnbox1{
+    margin-left: 450px;
+    font-size: 0.8rem;
+
+}
+.tastbox2{
+    background-repeat: no-repeat;
+    width: 580px;
+    height: 220px;
+    margin: auto;
+}
+.tasttext2{
+   padding-top: 45px;
+   font-size: 1.7rem;
+}
+.tastbtnbox2{
+    margin-left: 30px;
+    font-size: 0.8rem;
+}
+.disc{
+
+    height: 420px;
+    width: 580px !important;
+    margin: auto;
+}
+.disctext{
+    font-size: 1.3rem;
+  width: 180px;
+  margin-top: 20px;
+  margin-left: 360px;
+}
+.discdata{
+    color: rgb(253, 253, 253); 
+    font-size: 0.6rem; 
+    width: 180px; 
+    margin: 0px 0px 20px 360px;
+}
+.discbtn{
+    margin-left: 360px;
+    padding: 3px 10px;
+    font-size: 0.9rem;
+}
+.discbtn:hover{
+    font-size: 1.1rem;
+    padding: 5px 12px;
+}
+.columnbs {
+    float: left;
+    width: 32%;
+    padding: 6px;
+    margin: auto;
+    height: 558px; /* Should be removed. Only for demonstration */
+    }
+.blog{
+        float: left;
+        width: 48%;
+        padding: 0px;
+        margin: auto;
+        height: 420px; /* Should be removed. Only for demonstration */
+}
+.bsbtn{
+    font-size: 0.8rem;
+}
+.blogtext{
+    font-size: 1rem;
+}       
+
+}

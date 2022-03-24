@@ -1,0 +1,222 @@
+*{
+    font-family: 'Almarai', sans-serif;
+}
+
+.logo{
+        width: 3.25rem;
+    }
+    .nav-link{
+     color: #000000;
+   }
+   .nav-link:hover{
+    color: #813D0F;
+   }
+    .act{
+     text-decoration: underline;
+     text-underline-offset: .1875rem;  
+     color: #000000;
+   }
+   
+   .headline{
+     font-size: 4.3rem;
+     margin-top: 4.4rem;
+    color: rgb(0, 0, 0);
+    font-weight: 900;
+     
+    }
+    .heroimg{
+        margin-left: 700px;
+        width: 600px;
+        margin-top: 1rem;
+    }
+   .herobg{
+        background-image: url("bg.jfif");    
+        background-repeat: no-repeat;
+        background-size: cover; 
+        height:990px;
+    }
+    /*
+    .herobg1{
+        background-color: rgb(246, 209, 161);
+        padding-top: 1  0px;
+        height: 170px;
+    } */
+    .specs{
+        width: 200px;
+        padding: 5px;
+    }
+    .specicon{  
+        width: 50px;
+        height: 30px;
+    }
+    .specsbox{
+        width: 18rem;
+        height: 9.2rem;     
+        padding: 1.1rem; 
+        border-radius: 30px;
+        border: 2px solid black;
+    }
+    .sericon{
+        width: 20px;
+    }
+    .search{
+        width: 320px;
+        border-top-left-radius: 20px;
+        border-bottom-left-radius: 20px ;
+        font-size: 1rem;
+        border: none;
+        padding: 3px 10px;
+    }
+    .search:focus{
+       outline: none;
+    }
+    .searicon{
+        border: none;
+        background-color: white ;
+        padding: 3px;
+        padding-right: 10px !important;
+        border-top-right-radius: 20px;
+        border-bottom-right-radius: 20px;
+    }
+    .specsrow{
+        margin-top: 496px;
+    }
+    .taste{
+        font-size: 2.5rem;
+    }
+    .tastbox1{
+        background-image: url("blackcoffee.jpg");
+        background-size: contain;
+        width: 580px;
+        height: 220px;
+        border-radius: 5px;
+        box-shadow: 9px 9px 10px 1px;
+        
+    }
+    .tastbox2{
+        background-image: url("cappu.jpg");
+        background-size: cover;
+        width: 580px;
+        height: 220px;
+        border-radius: 5px;
+        box-shadow: 9px 9px 10px 1px;
+    }
+    .tasttext1{
+        color: white;
+        padding-right: 40px;
+        padding-top: 55px;
+       font-size: 1.3rem;
+        font-weight: 100;
+    
+    }
+    .tasttext2{
+        color: white;
+       padding-left: 30px;
+        padding-top: 55px;
+       font-size: 1.3rem;
+        font-weight: 100;
+    }
+    .tastbtnbox1{
+        margin-left: 420px;
+        font-size: 1rem;
+        padding-top: 0px;
+        margin-top: 0px;
+    }
+    .tastbtnbox2{
+        margin-left: 30px;
+        font-size: 1rem;
+        padding-top: 0px;
+        margin-top: 0px;
+    }
+    .tastbtn1{
+        background-color: white;
+        color: #000000;
+        border: none;
+        border-radius: 4px;
+    
+    }
+    .tastbtn2{
+        background-color: white;
+        color: #000000;
+        border: none;
+        border-radius: 4px;
+    }
+    .disc{
+        margin-top: 60px;
+        background-image: url("disc6.jfif   ");
+        height: 650px;
+        background-size: cover;
+        width: 1220px;
+        margin-left:36px;
+        border-radius: 8px;
+    }
+    .disctext{
+        font-size: 2.3rem;
+      color: rgb(224, 163, 64);
+      width: 290px;
+      margin-top: 80px;
+      margin-left: 840px;
+      font-weight: 600;
+    }
+    .discdata{
+        color: rgb(253, 253, 253); 
+        font-size: 0.8rem; 
+        margin-left: 840px; 
+        width: 290px; 
+        margin: 10px 0px 20px 840px;
+    }
+    .discbtn{
+        margin-left: 840px;
+        border: none;
+        padding: 5px 12px;
+        border-radius: 4px;
+        background-color: rgb(224, 163, 64);
+        color: rgb(119, 62, 9) ;
+        font-weight: 600;
+    }
+    .discbtn:hover{
+        font-size: 1.1rem;
+        padding: 8px 16px;
+    }
+
+    .columnbs {
+float: left;
+width: 32%;
+padding: 10px;
+margin: 0px 5px;
+height: 558px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.bsell:after {
+content: "";
+display: table;
+clear: both;
+}
+.bstext{
+text-transform: uppercase;
+font-weight: 600;
+}
+.checked {
+color: orange;
+}
+.bsbtn{
+border-radius: 4px;
+}
+.bsbtn:hover{
+background-color: rgb(209, 153, 107);
+}
+.blog{
+float: left;
+width: 49%;
+padding: 0px;
+margin: 0px 5px;
+height: 590px; /* Should be removed. Only for demonstration */
+}
+.blogtext{
+text-transform: uppercase;
+font-weight: 600;
+}
+.blogimg{
+    height: 430px;
+}

@@ -1,0 +1,52 @@
+@media only screen and (max-width: 992px) {
+.nav-link{
+        font-size: 0.5rem;
+}  
+.header{
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        gap: 0rem 1.1rem ;
+}
+.off{
+    height:250px;
+}
+.offimg{
+    margin: auto;
+    height: 240px;
+} 
+.r1txt{ 
+    font-size: 1.2rem;
+    text-align: left;
+    width: 200px;
+    margin: auto;
+    padding-top: 60px;
+}
+.r2txt , .r3txt , .r4txt , .r5txt{
+    margin: auto;
+    font-size: 1.2rem;
+    margin-top: 20px !important;
+    text-align: left;
+    width: 200px;
+}
+.off1 , .off2 {
+    height: 250px;
+}
+.off4{
+    height: 350px;
+}
+.off3{
+    height: 350px;
+}
+.offbtn1 , .offbtn2 , .offbtn3 , .offbtn4{
+    padding: 5px 10px;
+    font-size: 0.8rem !important;
+    margin-top : 10px;
+
+}
+.offtxt{
+    font-size: 0.8rem;
+    margin: auto;
+    width: 240px;
+}
+
+}
